@@ -6,6 +6,15 @@ This guide is a community-curated list of resources for adolescents living with 
 
 ## Youth-Friendly Clinics
 
+- **Teen Health Clinic Downtown**
+  - **Type:** Clinic
+  - **Location:** Downtown, Anytown, USA
+  - **Contact:** Phone: (123) 456-7890, Email: clinic@example.com, Website: https://example.com
+  - **Services:** Comprehensive sexual health services, HIV testing, PrEP prescriptions, counseling
+  - **Eligibility:** Ages 13-24, no insurance required
+  - **Hours:** Mon-Fri 9am-5pm, Sat 10am-2pm
+  - **Notes:** Free services for uninsured youth, LGBTQ+ friendly, Spanish interpretation available
+
 ## Mental Health Services
 
 ## PrEP Providers
